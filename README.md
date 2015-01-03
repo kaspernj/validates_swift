@@ -4,6 +4,9 @@
 
 # ValidatesSwift
 
+ActiveRecord validator for SWIFT codes using this project to do the actual validation:
+https://github.com/marjaimate/swift-code-tool
+
 This project rocks and uses MIT-LICENSE.
 
 
